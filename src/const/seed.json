@@ -1,0 +1,1842 @@
+[
+  {
+    "salary_structure": [
+      {
+        "id": "f66ac767-fe50-4d5b-bf7d-926c05d72b50",
+        "created_at": "2023-10-08T03:11:50.218Z",
+        "updated_at": "2023-10-07T22:44:48.202Z"
+      },
+      {
+        "id": "d9af5355-a511-459b-9eb0-30c35eeac1dc",
+        "created_at": "2023-10-07T16:55:40.610Z",
+        "updated_at": "2023-10-08T08:30:31.318Z"
+      },
+      {
+        "id": "0290d9b6-0d1e-4803-8b73-b5be8a70f1e5",
+        "created_at": "2023-10-08T02:29:42.275Z",
+        "updated_at": "2023-10-08T14:26:34.320Z"
+      },
+      {
+        "id": "d89956dd-07b7-4425-9e08-d310a8545044",
+        "created_at": "2023-10-07T20:40:12.182Z",
+        "updated_at": "2023-10-08T04:28:02.627Z"
+      },
+      {
+        "id": "2431217f-ee67-4509-8123-dd0a0128d2e4",
+        "created_at": "2023-10-08T09:02:10.415Z",
+        "updated_at": "2023-10-08T14:59:10.758Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "9a70cfb6-d7cf-4d9a-b8ec-044e0ff85db2",
+        "created_at": "2023-10-08T14:25:23.237Z",
+        "updated_at": "2023-10-08T05:10:33.064Z"
+      },
+      {
+        "id": "b2d45e7c-b94f-4625-9175-89a7f967e60c",
+        "created_at": "2023-10-07T22:40:28.049Z",
+        "updated_at": "2023-10-07T16:57:54.034Z"
+      },
+      {
+        "id": "83383ca9-bf8d-4796-9f98-2a7cdc9a653e",
+        "created_at": "2023-10-07T18:46:47.324Z",
+        "updated_at": "2023-10-07T19:20:52.940Z"
+      },
+      {
+        "id": "b652ce78-41ce-4ef3-a007-1ec5db087cd7",
+        "created_at": "2023-10-08T00:31:34.336Z",
+        "updated_at": "2023-10-07T17:31:48.611Z"
+      },
+      {
+        "id": "d9c66567-0cdd-424a-83b9-bfe81f5112c2",
+        "created_at": "2023-10-07T18:45:42.293Z",
+        "updated_at": "2023-10-08T11:02:08.072Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "4374f205-7409-4349-95e1-e5d8e9ece1f4",
+        "created_at": "2023-10-07T21:25:21.678Z",
+        "updated_at": "2023-10-08T11:03:22.411Z"
+      },
+      {
+        "id": "71ef43ee-c806-4d2c-a298-e28e49a29977",
+        "created_at": "2023-10-08T13:58:28.364Z",
+        "updated_at": "2023-10-08T11:20:59.576Z"
+      },
+      {
+        "id": "7b4206b4-3b57-4cd5-870d-bdbc0da558a2",
+        "created_at": "2023-10-08T00:14:18.263Z",
+        "updated_at": "2023-10-07T19:49:43.570Z"
+      },
+      {
+        "id": "4e0c457b-9279-463f-967e-f26868d40a24",
+        "created_at": "2023-10-08T15:55:24.890Z",
+        "updated_at": "2023-10-08T14:50:31.140Z"
+      },
+      {
+        "id": "31ccb53d-c5ac-438b-9829-430d931bca4b",
+        "created_at": "2023-10-08T12:07:20.156Z",
+        "updated_at": "2023-10-08T03:33:52.139Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "16656ead-f76c-400a-bc67-884d8ce11f90",
+        "created_at": "2023-10-07T19:39:26.803Z",
+        "updated_at": "2023-10-07T18:11:21.141Z"
+      },
+      {
+        "id": "794f1853-788d-405b-ae45-6472eab31acc",
+        "created_at": "2023-10-08T05:30:13.489Z",
+        "updated_at": "2023-10-08T03:40:53.558Z"
+      },
+      {
+        "id": "290b1c82-68fa-4cfd-8b4d-ef0f08ce1a0b",
+        "created_at": "2023-10-07T23:27:58.553Z",
+        "updated_at": "2023-10-08T14:31:03.468Z"
+      },
+      {
+        "id": "9ff968b9-289b-4ab0-bea3-d073c85b221f",
+        "created_at": "2023-10-07T17:14:09.904Z",
+        "updated_at": "2023-10-08T04:02:37.674Z"
+      },
+      {
+        "id": "c9ba892e-895f-4bcf-841c-ceaada774d23",
+        "created_at": "2023-10-08T06:45:05.183Z",
+        "updated_at": "2023-10-08T03:26:55.507Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "9b043caa-e6eb-48fb-a383-4cbaceffab25",
+        "created_at": "2023-10-08T05:27:58.822Z",
+        "updated_at": "2023-10-07T20:21:40.085Z"
+      },
+      {
+        "id": "4a5680a8-b595-4764-a714-8b7e07b7c3a0",
+        "created_at": "2023-10-08T06:58:01.579Z",
+        "updated_at": "2023-10-07T22:54:58.723Z"
+      },
+      {
+        "id": "117bf94e-b0b9-4249-aaad-0501fcbaa816",
+        "created_at": "2023-10-08T15:40:25.649Z",
+        "updated_at": "2023-10-08T16:04:41.987Z"
+      },
+      {
+        "id": "cf36d02c-698c-492a-9f4e-f3a6304f37dd",
+        "created_at": "2023-10-08T04:14:54.075Z",
+        "updated_at": "2023-10-08T05:55:08.797Z"
+      },
+      {
+        "id": "0d953299-4ed2-4443-8e9c-0cf9cc23fccc",
+        "created_at": "2023-10-08T05:24:08.146Z",
+        "updated_at": "2023-10-08T02:08:15.065Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6aa0195e-e962-4d9c-be53-4760c0a9ab3c",
+        "email": "Stacy.Nikolaus90@roq.tech",
+        "firstName": "Andres",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76169516",
+        "tenantId": null
+      },
+      {
+        "reference": "5d569986-051f-4035-91d7-a048f26fcc14",
+        "email": "Garth98@roq.tech",
+        "firstName": "Ansley",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/669.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "649b936d-6b47-4735-a0e5-519c0428324f",
+        "email": "Cindy_Altenwerth76@roq.tech",
+        "firstName": "Jefferey",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23211403",
+        "tenantId": null
+      },
+      {
+        "reference": "d5832be6-420a-4767-9a4e-6abd92168b55",
+        "email": "Conner.DAmore4@roq.tech",
+        "firstName": "Carmelo",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/674.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "21905381-d24d-4f34-9be5-2f9d5d07617d",
+        "email": "Merlin_Grimes80@roq.tech",
+        "firstName": "Louisa",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3288592",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "a7435ec1-c54b-4065-bc7f-777ab3357019",
+        "created_at": "2023-10-08T09:03:36.501Z",
+        "updated_at": "2023-10-08T07:49:24.384Z"
+      },
+      {
+        "id": "d1715224-f3c1-4ce5-910d-e7cb2c476537",
+        "created_at": "2023-10-07T16:46:41.178Z",
+        "updated_at": "2023-10-08T05:06:45.148Z"
+      },
+      {
+        "id": "76aafa68-7e1e-4dd9-8426-ccc26d413883",
+        "created_at": "2023-10-08T04:14:08.980Z",
+        "updated_at": "2023-10-07T23:47:48.769Z"
+      },
+      {
+        "id": "5e951ec9-fdfd-4f55-aece-d2f3219e6a8c",
+        "created_at": "2023-10-08T11:36:00.645Z",
+        "updated_at": "2023-10-07T22:55:07.320Z"
+      },
+      {
+        "id": "d1b894bf-55b3-4be4-8167-a803e13f1608",
+        "created_at": "2023-10-08T08:45:11.296Z",
+        "updated_at": "2023-10-08T14:52:03.470Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "88dca82d-6819-4e43-96f7-7f4f6c424037",
+        "created_at": "2023-10-08T13:20:38.612Z",
+        "updated_at": "2023-10-08T14:30:57.921Z"
+      },
+      {
+        "id": "43c483c4-8364-418d-9815-10593315583e",
+        "created_at": "2023-10-08T13:25:41.457Z",
+        "updated_at": "2023-10-07T22:35:10.499Z"
+      },
+      {
+        "id": "054796cd-f18c-4927-9190-7a6eb108ecc8",
+        "created_at": "2023-10-08T07:46:51.903Z",
+        "updated_at": "2023-10-07T21:57:50.539Z"
+      },
+      {
+        "id": "aac3cddf-a06d-4a9f-b326-04be77a7e2a6",
+        "created_at": "2023-10-08T01:22:41.242Z",
+        "updated_at": "2023-10-07T21:38:43.795Z"
+      },
+      {
+        "id": "b837b68c-d214-4ec0-90c1-ffbf005894ab",
+        "created_at": "2023-10-08T10:35:53.052Z",
+        "updated_at": "2023-10-08T14:58:23.034Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "5ee9dd75-8d52-4540-a976-0a07be3187d3",
+        "created_at": "2023-10-07T20:13:56.422Z",
+        "updated_at": "2023-10-08T05:02:17.624Z"
+      },
+      {
+        "id": "bac58dd7-138a-4896-ab28-6800e8614d54",
+        "created_at": "2023-10-08T11:36:49.725Z",
+        "updated_at": "2023-10-08T06:40:53.646Z"
+      },
+      {
+        "id": "91644811-27ce-4a09-a5b2-e93c41805610",
+        "created_at": "2023-10-08T01:34:50.652Z",
+        "updated_at": "2023-10-08T11:14:14.689Z"
+      },
+      {
+        "id": "a8065f27-4bc3-4421-869e-cc9925364576",
+        "created_at": "2023-10-08T11:15:41.288Z",
+        "updated_at": "2023-10-07T22:00:48.022Z"
+      },
+      {
+        "id": "b0ce732f-494c-4de5-8295-211a59271467",
+        "created_at": "2023-10-08T02:16:49.524Z",
+        "updated_at": "2023-10-08T16:04:31.125Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "ae8e8264-c8e0-4367-a39e-7d593e3cbc8e",
+        "created_at": "2023-10-08T04:42:40.829Z",
+        "updated_at": "2023-10-07T22:32:15.774Z"
+      },
+      {
+        "id": "34a69c59-c621-4766-a99f-32d7c363e9e7",
+        "created_at": "2023-10-08T14:52:08.914Z",
+        "updated_at": "2023-10-08T13:59:35.146Z"
+      },
+      {
+        "id": "646c8eae-7003-40af-b3e7-fabcd3728582",
+        "created_at": "2023-10-07T19:30:41.127Z",
+        "updated_at": "2023-10-07T23:30:01.030Z"
+      },
+      {
+        "id": "a26f018c-bf9d-430b-86b2-91f633851bfd",
+        "created_at": "2023-10-07T17:28:55.008Z",
+        "updated_at": "2023-10-08T00:35:27.895Z"
+      },
+      {
+        "id": "59230a0b-9178-40d5-8c4a-c603a0b5e15d",
+        "created_at": "2023-10-07T22:45:42.788Z",
+        "updated_at": "2023-10-07T21:50:58.013Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "112b6ea4-7ae0-4c41-80fd-788566696f73",
+        "created_at": "2023-10-08T01:24:10.844Z",
+        "updated_at": "2023-10-07T23:26:00.141Z"
+      },
+      {
+        "id": "c9769e00-3856-4d94-8f7c-1ebff548d890",
+        "created_at": "2023-10-08T03:46:05.871Z",
+        "updated_at": "2023-10-08T05:01:18.641Z"
+      },
+      {
+        "id": "ad73136d-113c-43b8-a18f-e245b6d85240",
+        "created_at": "2023-10-08T12:34:24.816Z",
+        "updated_at": "2023-10-08T09:29:09.596Z"
+      },
+      {
+        "id": "af8c1b48-d00f-4441-b659-5e5dc1683a39",
+        "created_at": "2023-10-08T10:29:27.404Z",
+        "updated_at": "2023-10-07T20:54:58.031Z"
+      },
+      {
+        "id": "5ed745dc-0191-4ed7-b1f9-fe1a0d8ba2eb",
+        "created_at": "2023-10-08T03:47:31.576Z",
+        "updated_at": "2023-10-08T01:36:35.090Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2bb1a48f-316d-4a35-87e3-4869298d781f",
+        "email": "Maia.Kutch-Rempel@roq.tech",
+        "firstName": "Itzel",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64832288",
+        "tenantId": null
+      },
+      {
+        "reference": "55cb44d0-22c6-4f93-8b55-9d77c31656c2",
+        "email": "Oceane_Abernathy66@roq.tech",
+        "firstName": "Adriana",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/724.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "365ed9bc-ded0-49c8-a9c4-905ba8633530",
+        "email": "Jack.Hettinger73@roq.tech",
+        "firstName": "Carson",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6448598",
+        "tenantId": null
+      },
+      {
+        "reference": "ac047c3c-b90c-46c8-9ec2-1991631406c5",
+        "email": "Orville_Spinka68@roq.tech",
+        "firstName": "Amya",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/847.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4d0bd530-8000-4ef1-a980-444373ae064f",
+        "email": "Therese_Spencer@roq.tech",
+        "firstName": "Dana",
+        "lastName": "Prosacco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8028680",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "f239e224-4ec8-4769-ad3e-bb1734bd40b6",
+        "created_at": "2023-10-08T09:09:07.491Z",
+        "updated_at": "2023-10-07T22:31:09.379Z"
+      },
+      {
+        "id": "4dae9a34-5abd-41b0-a9cb-57a56a194cc0",
+        "created_at": "2023-10-07T21:10:13.284Z",
+        "updated_at": "2023-10-08T11:59:35.218Z"
+      },
+      {
+        "id": "8d180253-4951-4243-876a-1b7dc0a591b7",
+        "created_at": "2023-10-08T16:05:49.534Z",
+        "updated_at": "2023-10-08T08:19:56.972Z"
+      },
+      {
+        "id": "3719c6a0-22cf-4bed-8497-3e5bdaac0437",
+        "created_at": "2023-10-08T12:55:41.623Z",
+        "updated_at": "2023-10-08T15:17:17.144Z"
+      },
+      {
+        "id": "63da2c3d-6adc-4ed4-b7f3-1b0fb92bd438",
+        "created_at": "2023-10-07T21:35:20.293Z",
+        "updated_at": "2023-10-08T16:09:41.213Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "a64f9a96-dfcb-4ba5-826e-a5c1b34d76d5",
+        "created_at": "2023-10-07T20:20:47.810Z",
+        "updated_at": "2023-10-07T22:31:59.560Z"
+      },
+      {
+        "id": "f38277ad-2499-4797-8a8a-60c2d536c412",
+        "created_at": "2023-10-08T08:42:36.395Z",
+        "updated_at": "2023-10-07T21:51:21.624Z"
+      },
+      {
+        "id": "ed639d8f-31a2-4ffa-945c-2525c76c6acd",
+        "created_at": "2023-10-08T13:06:36.164Z",
+        "updated_at": "2023-10-07T16:44:56.423Z"
+      },
+      {
+        "id": "c8743003-ed99-41cc-bbb4-759d9c2f0583",
+        "created_at": "2023-10-08T02:43:10.438Z",
+        "updated_at": "2023-10-08T11:34:44.665Z"
+      },
+      {
+        "id": "0d2c652a-8923-4f3b-a48a-81bf1ab3bcc1",
+        "created_at": "2023-10-08T01:13:21.130Z",
+        "updated_at": "2023-10-07T21:30:07.791Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "6ad79e14-18ff-4c01-82e0-57543df144f9",
+        "created_at": "2023-10-08T03:37:19.467Z",
+        "updated_at": "2023-10-07T17:01:13.830Z"
+      },
+      {
+        "id": "6f6b324b-69e6-4896-ac2c-02c69ff45053",
+        "created_at": "2023-10-08T00:53:04.557Z",
+        "updated_at": "2023-10-07T20:52:33.383Z"
+      },
+      {
+        "id": "8c957df4-7d38-48b3-b6fc-4d34811fac41",
+        "created_at": "2023-10-08T12:59:47.245Z",
+        "updated_at": "2023-10-08T02:44:00.769Z"
+      },
+      {
+        "id": "e729f5f6-a099-4bbb-ae07-631216f1cba7",
+        "created_at": "2023-10-07T17:36:18.397Z",
+        "updated_at": "2023-10-07T20:15:33.516Z"
+      },
+      {
+        "id": "e22ba700-deff-4000-9d7f-22e662ed64e1",
+        "created_at": "2023-10-07T20:02:53.042Z",
+        "updated_at": "2023-10-08T14:23:15.636Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "a0810757-56f1-4ea6-a718-08ea696facc1",
+        "created_at": "2023-10-08T13:48:03.274Z",
+        "updated_at": "2023-10-08T12:47:47.397Z"
+      },
+      {
+        "id": "2a946171-a247-4572-83c6-e91b5d74e527",
+        "created_at": "2023-10-08T10:34:18.142Z",
+        "updated_at": "2023-10-07T23:51:53.832Z"
+      },
+      {
+        "id": "ce2e2da4-dfee-4815-b864-5ed8c1605c34",
+        "created_at": "2023-10-08T11:24:51.277Z",
+        "updated_at": "2023-10-08T03:02:21.321Z"
+      },
+      {
+        "id": "90c8b884-9e12-429b-bb94-d276e283eab4",
+        "created_at": "2023-10-07T23:08:16.951Z",
+        "updated_at": "2023-10-08T07:50:51.566Z"
+      },
+      {
+        "id": "573d857c-f113-44c2-89e5-ff734314644f",
+        "created_at": "2023-10-08T14:09:32.106Z",
+        "updated_at": "2023-10-08T06:26:09.727Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "c79d42b8-9875-492a-bbc9-591a8afc1a47",
+        "created_at": "2023-10-08T06:18:37.363Z",
+        "updated_at": "2023-10-08T15:32:04.024Z"
+      },
+      {
+        "id": "8341f7e0-5c9f-46ec-a403-06a67d5a857d",
+        "created_at": "2023-10-08T06:08:19.897Z",
+        "updated_at": "2023-10-07T19:23:36.430Z"
+      },
+      {
+        "id": "c6c1572a-ef5d-4e8d-86e1-591aabe0986f",
+        "created_at": "2023-10-07T17:22:39.335Z",
+        "updated_at": "2023-10-08T14:38:07.550Z"
+      },
+      {
+        "id": "5a8dbba6-06ae-4c88-be91-d497862e61f7",
+        "created_at": "2023-10-07T23:00:02.662Z",
+        "updated_at": "2023-10-07T16:59:49.298Z"
+      },
+      {
+        "id": "53ce10bf-9564-4294-9429-c7d1d607f545",
+        "created_at": "2023-10-08T13:35:16.826Z",
+        "updated_at": "2023-10-07T21:16:14.244Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "eeb33c90-b612-4e5e-b735-07c1ab115a61",
+        "email": "Maida88@roq.tech",
+        "firstName": "Velma",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45438012",
+        "tenantId": null
+      },
+      {
+        "reference": "693e9d16-a343-4ee0-9d27-48cbc27f470e",
+        "email": "Magnolia.Jakubowski68@roq.tech",
+        "firstName": "Cristian",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1032.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9f326db3-d77e-4848-9ca7-339c359d198a",
+        "email": "Robin_Ruecker-Hartmann@roq.tech",
+        "firstName": "Cristopher",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/372.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0063e5a5-a09e-4596-83f9-ed9ca7e9cc66",
+        "email": "Queenie16@roq.tech",
+        "firstName": "Kennedy",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64494796",
+        "tenantId": null
+      },
+      {
+        "reference": "1b211e55-3d42-4394-b401-033efd369861",
+        "email": "Aubree.King26@roq.tech",
+        "firstName": "Michale",
+        "lastName": "Mueller-Mitchell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9530802",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "e3d5fed4-75c4-47b4-acf7-47cfcb18f123",
+        "created_at": "2023-10-07T21:20:58.045Z",
+        "updated_at": "2023-10-08T12:13:14.953Z"
+      },
+      {
+        "id": "cbca0d43-672c-450b-af18-2f3ed5d83279",
+        "created_at": "2023-10-08T06:52:08.647Z",
+        "updated_at": "2023-10-08T09:37:39.165Z"
+      },
+      {
+        "id": "d2404c41-1c9e-451e-b452-f0ae392ad87f",
+        "created_at": "2023-10-08T01:18:58.532Z",
+        "updated_at": "2023-10-08T08:24:18.469Z"
+      },
+      {
+        "id": "b6d5ee88-8e3b-47c1-b7b0-14e0576a4f5b",
+        "created_at": "2023-10-07T20:02:26.203Z",
+        "updated_at": "2023-10-07T17:04:02.613Z"
+      },
+      {
+        "id": "416b8aad-2da8-4c3e-b63d-e8186065dec2",
+        "created_at": "2023-10-08T12:10:17.614Z",
+        "updated_at": "2023-10-08T08:30:10.282Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "c27652c9-2e05-48cd-866e-c131ea00c3af",
+        "created_at": "2023-10-08T14:44:49.034Z",
+        "updated_at": "2023-10-07T22:34:48.926Z"
+      },
+      {
+        "id": "1fbe256a-17e7-4b68-8b24-18dfa3a8f9e9",
+        "created_at": "2023-10-08T12:09:44.251Z",
+        "updated_at": "2023-10-08T09:17:51.134Z"
+      },
+      {
+        "id": "1fb25290-50f2-45d7-8ec0-3012f607165e",
+        "created_at": "2023-10-08T03:57:55.245Z",
+        "updated_at": "2023-10-08T14:08:56.718Z"
+      },
+      {
+        "id": "aef7eb91-5761-4859-9249-d8272fc818aa",
+        "created_at": "2023-10-08T02:57:36.320Z",
+        "updated_at": "2023-10-08T14:12:22.385Z"
+      },
+      {
+        "id": "4e14ee75-7ee5-4cc4-a439-f321092d5495",
+        "created_at": "2023-10-08T02:03:55.895Z",
+        "updated_at": "2023-10-08T08:30:13.481Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "ef65607e-69a1-4ff1-9610-80a098d49082",
+        "created_at": "2023-10-08T15:10:46.651Z",
+        "updated_at": "2023-10-08T04:49:15.092Z"
+      },
+      {
+        "id": "f5c7e025-4469-4aa1-9a32-fc1aa27d6e46",
+        "created_at": "2023-10-08T11:23:02.328Z",
+        "updated_at": "2023-10-07T18:12:44.585Z"
+      },
+      {
+        "id": "ee0ea552-6ea0-419f-a45e-6544a3f5d7e4",
+        "created_at": "2023-10-08T07:50:26.776Z",
+        "updated_at": "2023-10-07T23:03:52.290Z"
+      },
+      {
+        "id": "2cc24898-5a13-4ec1-a3bf-3974f215be61",
+        "created_at": "2023-10-07T22:23:47.324Z",
+        "updated_at": "2023-10-08T01:47:42.723Z"
+      },
+      {
+        "id": "d5ceb6b8-dda9-4dca-ab63-269de8c813b0",
+        "created_at": "2023-10-07T22:38:40.217Z",
+        "updated_at": "2023-10-07T18:58:10.490Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "d74d6458-d738-4d95-b20d-c0096201acf3",
+        "created_at": "2023-10-08T10:25:56.207Z",
+        "updated_at": "2023-10-08T09:35:51.116Z"
+      },
+      {
+        "id": "e8d13c36-7700-47e4-aff7-ff34ef91c1a3",
+        "created_at": "2023-10-07T20:48:00.993Z",
+        "updated_at": "2023-10-08T08:40:33.054Z"
+      },
+      {
+        "id": "d0457219-d787-42a8-827b-ef72c8ff0a57",
+        "created_at": "2023-10-08T11:12:09.440Z",
+        "updated_at": "2023-10-07T18:30:53.178Z"
+      },
+      {
+        "id": "8c7bf10d-7569-4e3f-be2d-7ea7d1d03099",
+        "created_at": "2023-10-08T09:46:07.638Z",
+        "updated_at": "2023-10-07T22:58:13.374Z"
+      },
+      {
+        "id": "5988e402-b62f-4470-8156-069d3a24986e",
+        "created_at": "2023-10-08T12:49:06.144Z",
+        "updated_at": "2023-10-08T12:32:07.203Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "55fa5921-61c6-44b5-85b8-d624c4459ab0",
+        "created_at": "2023-10-08T05:44:11.276Z",
+        "updated_at": "2023-10-07T22:17:36.264Z"
+      },
+      {
+        "id": "ca341bbf-8b89-4962-90c8-2b88b688bdf7",
+        "created_at": "2023-10-08T02:55:26.953Z",
+        "updated_at": "2023-10-07T23:53:35.314Z"
+      },
+      {
+        "id": "fdc4017a-6958-41d3-b70f-c9ebbb8d2244",
+        "created_at": "2023-10-08T03:24:35.707Z",
+        "updated_at": "2023-10-08T08:58:35.832Z"
+      },
+      {
+        "id": "405f3b01-3937-445b-8d50-ff867222d992",
+        "created_at": "2023-10-08T06:17:06.781Z",
+        "updated_at": "2023-10-07T17:54:30.292Z"
+      },
+      {
+        "id": "ea7aaecb-bbcc-4cec-b08c-b298a1af23be",
+        "created_at": "2023-10-07T18:16:20.542Z",
+        "updated_at": "2023-10-08T13:10:51.277Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "552bc55c-4631-4c80-986f-53a940350a58",
+        "email": "Addie.Beier72@roq.tech",
+        "firstName": "Christine",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28562387",
+        "tenantId": null
+      },
+      {
+        "reference": "b58a788a-ddd5-444e-852b-2c90ce9c8a58",
+        "email": "Kariane.Adams65@roq.tech",
+        "firstName": "Celestino",
+        "lastName": "Zieme",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/795.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "659a5d4b-2b3d-4723-b198-1b9e79a2cae8",
+        "email": "Arjun_McGlynn@roq.tech",
+        "firstName": "Jessica",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/149.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5436d8f4-95c7-40b7-8677-3ed40280a91d",
+        "email": "Lempi.Skiles@roq.tech",
+        "firstName": "Jamar",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1031.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55129249-d3e0-4297-9c24-31300a9fd645",
+        "email": "Rodrick_Reichert@roq.tech",
+        "firstName": "Monica",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/787.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "44f29eb1-f75f-4bb7-8cb1-21afefe92aea",
+        "created_at": "2023-10-08T16:03:30.871Z",
+        "updated_at": "2023-10-08T15:24:09.877Z"
+      },
+      {
+        "id": "04751490-61fd-4123-aba5-3e7f34df3353",
+        "created_at": "2023-10-08T13:30:49.430Z",
+        "updated_at": "2023-10-08T02:04:44.917Z"
+      },
+      {
+        "id": "2c1b1eb1-ce8c-4297-bc8b-0cdeee0356df",
+        "created_at": "2023-10-07T18:01:54.802Z",
+        "updated_at": "2023-10-08T01:08:55.598Z"
+      },
+      {
+        "id": "a0eba4f4-339b-47a4-a49e-3b4a144c2196",
+        "created_at": "2023-10-08T07:50:40.627Z",
+        "updated_at": "2023-10-07T23:55:49.538Z"
+      },
+      {
+        "id": "ffd6872c-5aa9-47a5-901c-c09371dd69ad",
+        "created_at": "2023-10-07T18:37:19.047Z",
+        "updated_at": "2023-10-08T11:10:07.911Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "17ee0fe3-4868-4498-80bb-034077da22cf",
+        "created_at": "2023-10-08T15:36:00.549Z",
+        "updated_at": "2023-10-07T20:06:49.982Z"
+      },
+      {
+        "id": "e8813101-55d7-4725-8c16-f3c676c31dd1",
+        "created_at": "2023-10-07T21:04:51.930Z",
+        "updated_at": "2023-10-08T13:31:24.756Z"
+      },
+      {
+        "id": "d4347bb6-d9af-41f3-9175-0b8012843c78",
+        "created_at": "2023-10-07T18:58:46.920Z",
+        "updated_at": "2023-10-08T11:15:52.776Z"
+      },
+      {
+        "id": "0e8472ed-d9b8-4703-adf1-a4533d173371",
+        "created_at": "2023-10-08T10:11:26.366Z",
+        "updated_at": "2023-10-07T21:19:15.282Z"
+      },
+      {
+        "id": "712de508-a299-4d18-ba49-0c362263f118",
+        "created_at": "2023-10-08T04:39:27.180Z",
+        "updated_at": "2023-10-07T17:09:19.564Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "0e63a4e9-ec86-4e0f-9b8c-7a5a2e68466d",
+        "created_at": "2023-10-08T12:53:31.971Z",
+        "updated_at": "2023-10-08T00:35:49.322Z"
+      },
+      {
+        "id": "7ea6a226-d239-4206-8d0e-f0d241d8c11e",
+        "created_at": "2023-10-08T09:45:25.851Z",
+        "updated_at": "2023-10-07T18:57:16.699Z"
+      },
+      {
+        "id": "fc0d3087-859c-41c6-ac64-921688fc2d63",
+        "created_at": "2023-10-08T10:46:18.937Z",
+        "updated_at": "2023-10-08T12:20:04.766Z"
+      },
+      {
+        "id": "017fd29c-c4d4-47b5-a683-1958c8293860",
+        "created_at": "2023-10-08T11:50:30.635Z",
+        "updated_at": "2023-10-07T22:18:12.885Z"
+      },
+      {
+        "id": "61169075-c4dd-42a3-89d9-4c2706698332",
+        "created_at": "2023-10-08T04:22:46.117Z",
+        "updated_at": "2023-10-07T22:56:01.242Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "14178e26-1a4a-44bb-b072-ace470e79c7c",
+        "created_at": "2023-10-07T18:00:01.811Z",
+        "updated_at": "2023-10-08T11:08:52.423Z"
+      },
+      {
+        "id": "c6411fc6-d0bd-45e4-b00e-8ba3de3e8290",
+        "created_at": "2023-10-08T09:37:59.763Z",
+        "updated_at": "2023-10-08T16:07:21.041Z"
+      },
+      {
+        "id": "0d22d79a-fafc-48b9-89ae-1bbb0f5c4a8b",
+        "created_at": "2023-10-08T08:55:01.458Z",
+        "updated_at": "2023-10-08T04:20:22.360Z"
+      },
+      {
+        "id": "4224cbdc-6607-4a07-8d5c-54ce0078640c",
+        "created_at": "2023-10-07T23:22:10.496Z",
+        "updated_at": "2023-10-08T13:52:07.172Z"
+      },
+      {
+        "id": "58f16444-dab7-4d66-8a06-a1370d9492d5",
+        "created_at": "2023-10-08T14:31:30.644Z",
+        "updated_at": "2023-10-07T22:03:33.274Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "136b3aed-4fec-4e29-b670-d3136b89de9a",
+        "created_at": "2023-10-08T08:38:26.397Z",
+        "updated_at": "2023-10-08T03:55:26.654Z"
+      },
+      {
+        "id": "f2ee9be7-466d-4714-b29c-b8021acba50a",
+        "created_at": "2023-10-08T02:06:13.334Z",
+        "updated_at": "2023-10-08T12:03:32.384Z"
+      },
+      {
+        "id": "2ca5ebde-1e83-4fec-b75a-7fccd861ee6b",
+        "created_at": "2023-10-08T01:40:29.284Z",
+        "updated_at": "2023-10-08T08:18:02.355Z"
+      },
+      {
+        "id": "effe4382-885a-4a8f-9800-0e8d46e4a3f5",
+        "created_at": "2023-10-08T00:04:00.361Z",
+        "updated_at": "2023-10-08T13:18:50.911Z"
+      },
+      {
+        "id": "97bc2c68-d12f-4966-82e7-2729cc8a9cf1",
+        "created_at": "2023-10-07T17:53:46.407Z",
+        "updated_at": "2023-10-08T05:22:40.496Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cdb79db6-dab1-463a-bf1a-549833b2eef3",
+        "email": "Kaitlyn_Hahn@roq.tech",
+        "firstName": "Marisol",
+        "lastName": "Cormier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/357.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab7a86ab-b5a1-4492-b4e6-a4fe29e6f2ce",
+        "email": "Mertie.Bradtke@roq.tech",
+        "firstName": "Vickie",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47600270",
+        "tenantId": null
+      },
+      {
+        "reference": "75b07e20-a646-4290-a9be-cab00960158e",
+        "email": "Rebekah.Satterfield82@roq.tech",
+        "firstName": "Jake",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/948.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c82a716e-329d-4c5b-9a85-e62d5d5084d0",
+        "email": "Johann17@roq.tech",
+        "firstName": "Gayle",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/932.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "06edf93b-6e8b-47f9-b34d-c8a7810f4f8d",
+        "email": "Tatum_Ebert96@roq.tech",
+        "firstName": "Karli",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "35a7f900-3445-4ed1-9878-ac7655f3398b",
+        "created_at": "2023-10-08T04:45:34.058Z",
+        "updated_at": "2023-10-08T13:00:34.984Z"
+      },
+      {
+        "id": "7f87ac47-744e-4e12-9547-e8a83c59b207",
+        "created_at": "2023-10-08T03:38:14.963Z",
+        "updated_at": "2023-10-08T04:25:12.079Z"
+      },
+      {
+        "id": "626eda47-df06-4d96-a5bf-b6be668d865a",
+        "created_at": "2023-10-08T12:58:44.457Z",
+        "updated_at": "2023-10-08T04:50:08.728Z"
+      },
+      {
+        "id": "a3ab97ef-61a6-47da-b993-6991978b5973",
+        "created_at": "2023-10-08T03:03:43.137Z",
+        "updated_at": "2023-10-08T00:56:10.148Z"
+      },
+      {
+        "id": "669276be-e183-44b6-bd7c-8f1085a0f241",
+        "created_at": "2023-10-07T18:58:54.961Z",
+        "updated_at": "2023-10-07T18:52:39.747Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "8f083bbf-1168-4370-9671-7346e43cee7a",
+        "created_at": "2023-10-07T23:46:12.308Z",
+        "updated_at": "2023-10-08T03:50:35.159Z"
+      },
+      {
+        "id": "eb314ce9-8521-41e4-b662-58e1844e0375",
+        "created_at": "2023-10-08T06:53:16.928Z",
+        "updated_at": "2023-10-08T00:53:01.033Z"
+      },
+      {
+        "id": "227d5e1a-8bf4-4b42-aa63-51ad7b475467",
+        "created_at": "2023-10-08T05:02:45.679Z",
+        "updated_at": "2023-10-08T12:44:18.149Z"
+      },
+      {
+        "id": "e606687a-c2c8-4d5b-8f7a-f1d7b997fd28",
+        "created_at": "2023-10-08T07:42:30.936Z",
+        "updated_at": "2023-10-08T13:22:05.564Z"
+      },
+      {
+        "id": "61261029-8ee2-4a99-9b97-826fd1cfb953",
+        "created_at": "2023-10-08T13:08:18.989Z",
+        "updated_at": "2023-10-07T20:40:56.853Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "e8917994-4cb5-4b76-86f8-6b20f35a7747",
+        "created_at": "2023-10-08T05:31:28.876Z",
+        "updated_at": "2023-10-08T14:13:38.257Z"
+      },
+      {
+        "id": "d71ea059-683b-4e21-9d5e-fe7ec1efb17f",
+        "created_at": "2023-10-08T11:53:46.222Z",
+        "updated_at": "2023-10-08T02:18:14.300Z"
+      },
+      {
+        "id": "b008802b-d9fb-4dab-b4c0-c230f82a66bd",
+        "created_at": "2023-10-08T00:52:32.569Z",
+        "updated_at": "2023-10-07T18:31:38.545Z"
+      },
+      {
+        "id": "88a4930d-7242-4057-915f-8a48be889ab4",
+        "created_at": "2023-10-08T12:08:35.669Z",
+        "updated_at": "2023-10-08T00:40:03.546Z"
+      },
+      {
+        "id": "9fb334f2-6576-4b4f-a71d-13257e560345",
+        "created_at": "2023-10-08T16:02:40.018Z",
+        "updated_at": "2023-10-08T07:11:16.826Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "4cfb9d53-4a86-49b4-82cb-4c3e39bb2202",
+        "created_at": "2023-10-08T10:51:53.413Z",
+        "updated_at": "2023-10-08T13:23:15.021Z"
+      },
+      {
+        "id": "d37daa4e-e47c-42d1-b6a6-f3786db8bd10",
+        "created_at": "2023-10-08T04:35:46.149Z",
+        "updated_at": "2023-10-08T14:37:16.247Z"
+      },
+      {
+        "id": "9ca10220-2d0f-487d-8921-22cc7f45ad5e",
+        "created_at": "2023-10-08T01:41:27.136Z",
+        "updated_at": "2023-10-08T01:53:34.967Z"
+      },
+      {
+        "id": "a9378a8a-baf6-42eb-9503-d7aa1967b09a",
+        "created_at": "2023-10-07T22:57:00.980Z",
+        "updated_at": "2023-10-08T05:33:35.572Z"
+      },
+      {
+        "id": "197e0463-fef9-4670-8874-00296ffea5f8",
+        "created_at": "2023-10-08T10:10:09.913Z",
+        "updated_at": "2023-10-07T18:02:17.921Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "bc7bfbfa-9a05-43b2-9dfa-cede061f826a",
+        "created_at": "2023-10-08T15:48:15.213Z",
+        "updated_at": "2023-10-08T00:49:33.491Z"
+      },
+      {
+        "id": "5d8a8d55-bc77-4569-bf26-fa604e194fa3",
+        "created_at": "2023-10-07T19:43:13.783Z",
+        "updated_at": "2023-10-08T14:52:48.029Z"
+      },
+      {
+        "id": "4751ca63-7232-4264-919d-b9d41355852f",
+        "created_at": "2023-10-07T16:48:45.438Z",
+        "updated_at": "2023-10-07T17:40:36.276Z"
+      },
+      {
+        "id": "b05ba447-daac-4d5d-a6ae-d78ce06fee56",
+        "created_at": "2023-10-07T22:21:50.345Z",
+        "updated_at": "2023-10-07T18:27:52.281Z"
+      },
+      {
+        "id": "e8d81ecc-a836-4a6e-8a84-59876d9a129d",
+        "created_at": "2023-10-07T20:54:00.666Z",
+        "updated_at": "2023-10-08T12:28:41.494Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f43716b1-4682-4b93-956e-a2383b5334b4",
+        "email": "Lou88@roq.tech",
+        "firstName": "Adalberto",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95120523",
+        "tenantId": null
+      },
+      {
+        "reference": "740440c2-383e-4aed-b0f7-b9b1b9a71fec",
+        "email": "Shakira_Veum@roq.tech",
+        "firstName": "Vickie",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49033696",
+        "tenantId": null
+      },
+      {
+        "reference": "cfe83ea9-d410-4c40-a0d6-cc98e8328b41",
+        "email": "Adella43@roq.tech",
+        "firstName": "Hazle",
+        "lastName": "Nienow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1004.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "91759ca7-f1e8-452f-a3b9-ec7a2ea5f0e0",
+        "email": "Kira27@roq.tech",
+        "firstName": "Wilma",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/437.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ba8e9d29-dea4-4800-99a3-65e98fffa2ed",
+        "email": "Michaela.Bartoletti6@roq.tech",
+        "firstName": "Christelle",
+        "lastName": "Powlowski-Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53698666",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "c0e14205-7aad-43fd-babf-146d0808a10f",
+        "created_at": "2023-10-08T00:44:27.708Z",
+        "updated_at": "2023-10-08T08:54:27.475Z"
+      },
+      {
+        "id": "602c0df4-5bf9-4225-951f-36283f3c90a9",
+        "created_at": "2023-10-08T11:58:51.480Z",
+        "updated_at": "2023-10-07T23:21:33.057Z"
+      },
+      {
+        "id": "0fcc37b3-a84f-4dd1-abaf-5b15d2370018",
+        "created_at": "2023-10-08T01:50:25.826Z",
+        "updated_at": "2023-10-07T16:28:31.040Z"
+      },
+      {
+        "id": "e2c95427-3a46-4b4a-bd8c-6399148fe457",
+        "created_at": "2023-10-08T07:59:56.876Z",
+        "updated_at": "2023-10-07T22:48:34.061Z"
+      },
+      {
+        "id": "b859f0ae-c925-4fdb-aa2b-ee9988720472",
+        "created_at": "2023-10-07T19:43:34.207Z",
+        "updated_at": "2023-10-08T07:30:22.812Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "bd180c2f-3c1e-41de-8cb1-bb01d01e037b",
+        "created_at": "2023-10-07T23:57:19.083Z",
+        "updated_at": "2023-10-08T16:08:54.129Z"
+      },
+      {
+        "id": "bd553885-835c-4e01-9524-77b4a0b16e39",
+        "created_at": "2023-10-07T20:39:50.799Z",
+        "updated_at": "2023-10-08T14:23:29.529Z"
+      },
+      {
+        "id": "0036debd-770f-47f3-9f43-57d38eb670f3",
+        "created_at": "2023-10-08T14:38:29.419Z",
+        "updated_at": "2023-10-08T12:49:53.882Z"
+      },
+      {
+        "id": "20d9c02a-f3b1-4d79-9f94-4c66f9e63b69",
+        "created_at": "2023-10-08T09:10:57.132Z",
+        "updated_at": "2023-10-08T02:21:37.588Z"
+      },
+      {
+        "id": "4272464a-9f76-4125-9727-c81d27a4e315",
+        "created_at": "2023-10-08T05:54:14.997Z",
+        "updated_at": "2023-10-07T20:06:27.541Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "e8b634bf-8abd-4c5f-8556-e681721a729f",
+        "created_at": "2023-10-07T19:20:14.358Z",
+        "updated_at": "2023-10-07T23:05:39.535Z"
+      },
+      {
+        "id": "b884cf08-7a73-4451-ae47-c4c1b6ead8a0",
+        "created_at": "2023-10-08T11:30:18.200Z",
+        "updated_at": "2023-10-08T06:00:16.508Z"
+      },
+      {
+        "id": "39fd64ac-f63f-4e1c-91ed-bf12d5fee525",
+        "created_at": "2023-10-08T15:27:38.125Z",
+        "updated_at": "2023-10-08T10:28:43.486Z"
+      },
+      {
+        "id": "f9b53716-486c-43ab-a92b-d6d59c302675",
+        "created_at": "2023-10-08T15:41:01.045Z",
+        "updated_at": "2023-10-08T14:04:59.116Z"
+      },
+      {
+        "id": "51e4d77b-27e7-4325-8fa7-b527a0d913f9",
+        "created_at": "2023-10-08T06:51:29.250Z",
+        "updated_at": "2023-10-08T01:53:44.628Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "474d371e-9349-4558-993e-21a08bc17d3d",
+        "created_at": "2023-10-08T06:16:54.983Z",
+        "updated_at": "2023-10-07T16:17:47.482Z"
+      },
+      {
+        "id": "306c781b-5537-46a7-b0a8-802ac25c0a43",
+        "created_at": "2023-10-08T14:09:27.225Z",
+        "updated_at": "2023-10-07T19:24:19.302Z"
+      },
+      {
+        "id": "62e283e5-b19f-4986-b375-743c4fd43a84",
+        "created_at": "2023-10-08T14:12:37.403Z",
+        "updated_at": "2023-10-07T21:36:09.520Z"
+      },
+      {
+        "id": "b6a8b481-842d-4f03-a5dd-3461cc6d2efc",
+        "created_at": "2023-10-08T11:50:23.438Z",
+        "updated_at": "2023-10-07T22:58:38.003Z"
+      },
+      {
+        "id": "94f5bfa2-76c3-4c71-80cc-32348bb0f3f2",
+        "created_at": "2023-10-07T21:45:47.252Z",
+        "updated_at": "2023-10-08T08:28:58.693Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "f572de10-763b-4307-848d-d02f892597f8",
+        "created_at": "2023-10-08T06:33:02.583Z",
+        "updated_at": "2023-10-07T19:54:24.595Z"
+      },
+      {
+        "id": "3f97a92d-2a1e-49ed-8fbf-0dbe7df0f6ee",
+        "created_at": "2023-10-08T11:13:56.634Z",
+        "updated_at": "2023-10-08T08:23:29.823Z"
+      },
+      {
+        "id": "b8737b6e-dc98-4381-82c6-96ca4734ec3d",
+        "created_at": "2023-10-08T10:24:02.125Z",
+        "updated_at": "2023-10-08T00:28:02.028Z"
+      },
+      {
+        "id": "cee9d38e-d95b-4399-92ca-ad776f99cc65",
+        "created_at": "2023-10-08T08:56:13.588Z",
+        "updated_at": "2023-10-08T00:09:04.318Z"
+      },
+      {
+        "id": "9fdb23fd-945b-46dc-8310-de66c0d5c0d2",
+        "created_at": "2023-10-08T14:05:55.506Z",
+        "updated_at": "2023-10-08T09:19:53.843Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "07c3e2b2-9047-4488-82a1-725144ef38e9",
+        "email": "Magnolia.Shields53@roq.tech",
+        "firstName": "Jarvis",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10456321",
+        "tenantId": null
+      },
+      {
+        "reference": "3c624cfd-a12a-4b21-8db3-d52328c4c636",
+        "email": "Ted_Maggio@roq.tech",
+        "firstName": "Enola",
+        "lastName": "Predovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63558738",
+        "tenantId": null
+      },
+      {
+        "reference": "ccbace4d-4da8-4e72-a246-b1df6b1940c0",
+        "email": "Yasmine59@roq.tech",
+        "firstName": "Beulah",
+        "lastName": "Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1588981",
+        "tenantId": null
+      },
+      {
+        "reference": "0f5b522c-924b-4559-8faa-dda21ba02a5f",
+        "email": "Jerald92@roq.tech",
+        "firstName": "Rory",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/494.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "292767f1-f754-4a61-9557-4992d44b1dc6",
+        "email": "Kailey68@roq.tech",
+        "firstName": "Arjun",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16895281",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "1313d211-21d4-4652-8ebb-9dd432a2ee52",
+        "created_at": "2023-10-07T20:05:07.030Z",
+        "updated_at": "2023-10-08T06:06:15.326Z"
+      },
+      {
+        "id": "205d35e8-96bb-430a-9f21-44c51b630213",
+        "created_at": "2023-10-08T15:30:41.019Z",
+        "updated_at": "2023-10-08T06:39:16.564Z"
+      },
+      {
+        "id": "87be64c0-f538-49bb-958a-a73284b74404",
+        "created_at": "2023-10-08T08:21:57.447Z",
+        "updated_at": "2023-10-07T17:07:00.880Z"
+      },
+      {
+        "id": "c70a2878-cb82-403c-9780-76613aa06e3e",
+        "created_at": "2023-10-08T15:41:29.137Z",
+        "updated_at": "2023-10-07T23:57:25.841Z"
+      },
+      {
+        "id": "2b22688d-3172-481d-8b8a-d392ddc3c3d6",
+        "created_at": "2023-10-08T02:05:50.020Z",
+        "updated_at": "2023-10-08T00:48:57.639Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "642a8b25-4730-4f07-80e6-eee99c8d7740",
+        "created_at": "2023-10-07T22:33:00.441Z",
+        "updated_at": "2023-10-08T10:50:03.749Z"
+      },
+      {
+        "id": "33a7236c-bdb2-4fc2-8496-b0cfdbfe8b2d",
+        "created_at": "2023-10-08T09:32:02.312Z",
+        "updated_at": "2023-10-08T14:28:22.237Z"
+      },
+      {
+        "id": "49411472-8c68-4ab9-8cf2-d33774e44fa4",
+        "created_at": "2023-10-08T00:05:39.188Z",
+        "updated_at": "2023-10-08T12:20:10.281Z"
+      },
+      {
+        "id": "af10c809-6d92-43d1-b3ea-098208359e15",
+        "created_at": "2023-10-07T18:23:16.847Z",
+        "updated_at": "2023-10-07T16:17:46.438Z"
+      },
+      {
+        "id": "4b10bbd6-8998-4fe2-9736-431decc111e7",
+        "created_at": "2023-10-07T22:01:25.113Z",
+        "updated_at": "2023-10-08T15:27:41.458Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "b8f3f3b1-27e6-4cb0-be43-4f238f1699ad",
+        "created_at": "2023-10-07T23:21:09.801Z",
+        "updated_at": "2023-10-08T14:50:54.859Z"
+      },
+      {
+        "id": "2ba9d5d3-8349-4895-80a6-0f15e55b93dc",
+        "created_at": "2023-10-08T13:11:27.039Z",
+        "updated_at": "2023-10-08T12:39:40.785Z"
+      },
+      {
+        "id": "7ba3cef3-31f9-405c-ac86-6060e759c3a9",
+        "created_at": "2023-10-07T23:49:02.529Z",
+        "updated_at": "2023-10-08T00:31:16.065Z"
+      },
+      {
+        "id": "41026cdd-627a-40fa-bd2b-91ff62ea5a64",
+        "created_at": "2023-10-08T00:09:30.900Z",
+        "updated_at": "2023-10-08T10:58:40.152Z"
+      },
+      {
+        "id": "8767618c-2231-41d6-bcb7-703b006634f3",
+        "created_at": "2023-10-08T03:23:22.502Z",
+        "updated_at": "2023-10-07T19:18:22.672Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "e8ff7c80-474c-48bb-9b34-6a48c325618b",
+        "created_at": "2023-10-08T04:28:39.868Z",
+        "updated_at": "2023-10-08T05:37:22.030Z"
+      },
+      {
+        "id": "cd2516a4-84fc-44e5-9ef7-00fec9a1f559",
+        "created_at": "2023-10-07T20:41:51.404Z",
+        "updated_at": "2023-10-08T13:40:50.288Z"
+      },
+      {
+        "id": "d2cd21a7-5696-43fc-bdf7-58813789f1e6",
+        "created_at": "2023-10-08T06:10:17.663Z",
+        "updated_at": "2023-10-08T08:51:40.402Z"
+      },
+      {
+        "id": "23adb81d-bdfd-4074-8693-754d375520e5",
+        "created_at": "2023-10-08T13:35:58.189Z",
+        "updated_at": "2023-10-08T02:08:58.329Z"
+      },
+      {
+        "id": "9d7b2cc9-e535-4b81-933f-8a808b9b0315",
+        "created_at": "2023-10-08T05:26:18.500Z",
+        "updated_at": "2023-10-08T14:04:17.695Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "ffe484f6-57e7-4065-a14f-1e16e878bf78",
+        "created_at": "2023-10-08T15:26:25.493Z",
+        "updated_at": "2023-10-08T04:14:55.936Z"
+      },
+      {
+        "id": "8f5ac73a-9587-45ce-bfd7-c3da57e16824",
+        "created_at": "2023-10-08T11:47:54.471Z",
+        "updated_at": "2023-10-08T11:53:29.954Z"
+      },
+      {
+        "id": "ad6a9247-f568-43a6-8014-4b2db01aa810",
+        "created_at": "2023-10-07T20:52:49.717Z",
+        "updated_at": "2023-10-08T15:54:45.438Z"
+      },
+      {
+        "id": "054780b4-faad-4da8-897e-9419c6069f42",
+        "created_at": "2023-10-07T22:10:00.212Z",
+        "updated_at": "2023-10-07T23:17:04.567Z"
+      },
+      {
+        "id": "242cc859-ff51-4942-991b-e21db77fadfc",
+        "created_at": "2023-10-08T00:19:38.403Z",
+        "updated_at": "2023-10-08T12:50:11.494Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "31d1ce63-ecb2-4947-8773-8baf48efef23",
+        "email": "Georgiana.Kassulke@roq.tech",
+        "firstName": "Carlo",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60127122",
+        "tenantId": null
+      },
+      {
+        "reference": "f7594bd4-cec6-4ac2-a1a1-313770c1a539",
+        "email": "Payton.Hayes-Heller73@roq.tech",
+        "firstName": "Uriel",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/706.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9091d03a-2dc3-4c22-a46d-4e286bc07320",
+        "email": "Saul_Kiehn@roq.tech",
+        "firstName": "Verla",
+        "lastName": "Beer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/855730",
+        "tenantId": null
+      },
+      {
+        "reference": "61ff12b2-7b0b-48d3-b3ad-2faebdfaffd2",
+        "email": "Ernie31@roq.tech",
+        "firstName": "Roberto",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77360838",
+        "tenantId": null
+      },
+      {
+        "reference": "cb266c3c-ff3c-4af3-a5f7-4679d832af88",
+        "email": "Wendy_Heathcote23@roq.tech",
+        "firstName": "Tara",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51630568",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "59b2341b-d14d-4779-8199-e43dcd7f6ebd",
+        "created_at": "2023-10-07T18:30:46.974Z",
+        "updated_at": "2023-10-07T16:43:21.867Z"
+      },
+      {
+        "id": "7bb62eb7-b1ea-419c-b129-1e0d4abf2423",
+        "created_at": "2023-10-08T07:46:02.165Z",
+        "updated_at": "2023-10-08T04:34:50.740Z"
+      },
+      {
+        "id": "8751cf64-6e59-4ea3-884c-25f63e7978d1",
+        "created_at": "2023-10-08T09:24:54.335Z",
+        "updated_at": "2023-10-07T22:08:32.219Z"
+      },
+      {
+        "id": "1b2406ba-34c3-4f78-a3a0-5a86ea6c17da",
+        "created_at": "2023-10-08T06:22:25.233Z",
+        "updated_at": "2023-10-08T01:01:12.138Z"
+      },
+      {
+        "id": "81d2c5b8-1fd5-4b18-b0d4-83e24e6ea49d",
+        "created_at": "2023-10-08T14:44:42.278Z",
+        "updated_at": "2023-10-07T21:04:01.620Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "233c645e-a347-4c55-a3fe-e0bbc6a366a7",
+        "created_at": "2023-10-08T06:33:44.971Z",
+        "updated_at": "2023-10-08T06:39:54.563Z"
+      },
+      {
+        "id": "c962af2a-6817-4f7f-b712-0f99a9cb28de",
+        "created_at": "2023-10-08T13:45:12.898Z",
+        "updated_at": "2023-10-08T00:21:52.646Z"
+      },
+      {
+        "id": "2df97f52-12ad-4a92-b02c-7e06c872ea7e",
+        "created_at": "2023-10-08T13:35:41.371Z",
+        "updated_at": "2023-10-08T14:38:04.234Z"
+      },
+      {
+        "id": "d2080951-70b5-40e6-a87f-28ef27c5e87b",
+        "created_at": "2023-10-07T23:07:59.117Z",
+        "updated_at": "2023-10-08T02:01:27.475Z"
+      },
+      {
+        "id": "ef5ab756-5dd5-43ac-9c8b-e24f4438255d",
+        "created_at": "2023-10-08T10:19:23.771Z",
+        "updated_at": "2023-10-08T04:40:59.548Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "9a67f68b-fcad-4fe0-a015-eef423522369",
+        "created_at": "2023-10-07T20:46:01.712Z",
+        "updated_at": "2023-10-08T15:21:33.213Z"
+      },
+      {
+        "id": "09b55b43-45f5-45c0-a756-ffd74beac35d",
+        "created_at": "2023-10-08T13:43:48.237Z",
+        "updated_at": "2023-10-07T21:59:48.812Z"
+      },
+      {
+        "id": "9fda80a0-4b14-46ed-96ed-9e46cc0e5faf",
+        "created_at": "2023-10-08T06:12:22.965Z",
+        "updated_at": "2023-10-08T04:50:38.749Z"
+      },
+      {
+        "id": "1fc651b0-025c-44a6-a651-ac070d2e1368",
+        "created_at": "2023-10-08T10:47:21.797Z",
+        "updated_at": "2023-10-08T01:11:53.541Z"
+      },
+      {
+        "id": "bfb06aa2-af83-48e7-8be7-be85192f372d",
+        "created_at": "2023-10-08T05:39:45.644Z",
+        "updated_at": "2023-10-08T00:19:40.853Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "8156c400-b9f3-4841-8575-f83dcdec5de9",
+        "created_at": "2023-10-07T22:58:32.956Z",
+        "updated_at": "2023-10-08T14:08:48.240Z"
+      },
+      {
+        "id": "9b2fbd64-de70-49a3-9b45-2ea6bcb09f7a",
+        "created_at": "2023-10-08T13:59:45.053Z",
+        "updated_at": "2023-10-07T20:49:48.998Z"
+      },
+      {
+        "id": "92ea2dd9-dbf8-49b3-b37e-db6e9143ed06",
+        "created_at": "2023-10-07T20:51:12.404Z",
+        "updated_at": "2023-10-08T09:37:03.287Z"
+      },
+      {
+        "id": "1d9158d9-4a9e-43ca-aa32-587b4a9efd6a",
+        "created_at": "2023-10-08T08:39:21.916Z",
+        "updated_at": "2023-10-08T03:14:26.489Z"
+      },
+      {
+        "id": "0ee6f12e-39c2-412c-9f6c-25b899d3ddd4",
+        "created_at": "2023-10-08T15:21:03.571Z",
+        "updated_at": "2023-10-07T22:16:37.676Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "c0b87cf1-58ca-45ce-8fbe-3c731dbe4e0e",
+        "created_at": "2023-10-07T17:40:03.380Z",
+        "updated_at": "2023-10-08T01:21:32.958Z"
+      },
+      {
+        "id": "ccb66d30-238b-4ab2-a9a5-b7cea75e3213",
+        "created_at": "2023-10-08T07:41:53.464Z",
+        "updated_at": "2023-10-08T05:20:01.242Z"
+      },
+      {
+        "id": "197440b8-4ce1-48d3-8633-e45984d5183e",
+        "created_at": "2023-10-07T16:32:39.460Z",
+        "updated_at": "2023-10-07T23:45:38.603Z"
+      },
+      {
+        "id": "c5d12e60-3039-40d5-a27e-16ec01ce7373",
+        "created_at": "2023-10-07T17:15:19.901Z",
+        "updated_at": "2023-10-08T12:40:47.146Z"
+      },
+      {
+        "id": "ffa931be-39de-409d-871a-0fe6659f1e03",
+        "created_at": "2023-10-08T02:14:34.534Z",
+        "updated_at": "2023-10-07T21:29:57.566Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bb38525a-ae7b-4749-9cc0-0ae4387ad445",
+        "email": "Citlalli.Schinner54@roq.tech",
+        "firstName": "Jerald",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/577.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b9c37c35-1ebb-44f6-a1b5-19dd9659dbf2",
+        "email": "Deven51@roq.tech",
+        "firstName": "King",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98240138",
+        "tenantId": null
+      },
+      {
+        "reference": "d0e4e721-da43-48eb-8331-c2e60cc62886",
+        "email": "Telly_Swift@roq.tech",
+        "firstName": "Kiel",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5735978",
+        "tenantId": null
+      },
+      {
+        "reference": "665c51ec-a8c8-497e-b309-0369244e1442",
+        "email": "Sabina.Little@roq.tech",
+        "firstName": "Amely",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/325.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eee86985-a330-4dfc-be3c-ab78a22faed0",
+        "email": "Angelita_Klein46@roq.tech",
+        "firstName": "Josiah",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1217.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "salary_structure": [
+      {
+        "id": "c80ce21c-6896-444d-9bd4-fc995212b638",
+        "created_at": "2023-10-07T22:55:48.824Z",
+        "updated_at": "2023-10-08T12:14:46.381Z"
+      },
+      {
+        "id": "441ce107-53fe-47b7-b0fb-521be9acddbb",
+        "created_at": "2023-10-08T14:50:30.213Z",
+        "updated_at": "2023-10-08T11:43:26.197Z"
+      },
+      {
+        "id": "c749eb45-1aa9-4f85-9d3d-74d4a14903ca",
+        "created_at": "2023-10-08T12:51:48.837Z",
+        "updated_at": "2023-10-08T10:47:58.838Z"
+      },
+      {
+        "id": "85dab1bb-6099-4805-98dd-e7493eb63963",
+        "created_at": "2023-10-07T19:10:30.871Z",
+        "updated_at": "2023-10-07T22:11:24.193Z"
+      },
+      {
+        "id": "61398abd-9664-46c6-93cd-0f9c6b6818c3",
+        "created_at": "2023-10-07T16:40:45.195Z",
+        "updated_at": "2023-10-07T17:24:57.766Z"
+      }
+    ],
+    "job_position": [
+      {
+        "id": "5b7531ee-85e6-4ca4-a5cf-9178555a88cb",
+        "created_at": "2023-10-07T20:27:13.930Z",
+        "updated_at": "2023-10-08T04:06:47.258Z"
+      },
+      {
+        "id": "476e12bb-9cf2-4e61-8ef0-86a5ccb949bd",
+        "created_at": "2023-10-08T12:12:50.568Z",
+        "updated_at": "2023-10-08T15:59:46.354Z"
+      },
+      {
+        "id": "c43c0aac-4036-4b23-82c0-46a0a9cf4666",
+        "created_at": "2023-10-08T00:00:50.376Z",
+        "updated_at": "2023-10-08T11:19:16.197Z"
+      },
+      {
+        "id": "a84128e2-2235-4887-b8fd-76ac8d76d288",
+        "created_at": "2023-10-07T18:30:07.831Z",
+        "updated_at": "2023-10-08T14:32:23.865Z"
+      },
+      {
+        "id": "a8c05db9-b8b7-4ee6-864a-0d6339e9b658",
+        "created_at": "2023-10-08T08:56:54.801Z",
+        "updated_at": "2023-10-07T22:12:03.161Z"
+      }
+    ],
+    "employee_details": [
+      {
+        "id": "3b0f7291-f2b6-43e9-a80d-d807c83b24be",
+        "created_at": "2023-10-08T13:59:26.813Z",
+        "updated_at": "2023-10-08T07:45:54.944Z"
+      },
+      {
+        "id": "72b25567-3c8f-4796-846a-eb50515cca55",
+        "created_at": "2023-10-08T11:09:59.314Z",
+        "updated_at": "2023-10-08T01:41:40.780Z"
+      },
+      {
+        "id": "aac60440-c601-479a-bdf2-8f65dc862f3c",
+        "created_at": "2023-10-08T06:29:55.389Z",
+        "updated_at": "2023-10-08T13:59:27.710Z"
+      },
+      {
+        "id": "3fc70e9a-12e7-4858-9102-6fc6924b9bff",
+        "created_at": "2023-10-08T02:36:00.046Z",
+        "updated_at": "2023-10-08T00:02:10.071Z"
+      },
+      {
+        "id": "76c0d32a-12b8-41d6-89f4-2dd67a273b58",
+        "created_at": "2023-10-08T11:42:07.386Z",
+        "updated_at": "2023-10-07T18:12:13.507Z"
+      }
+    ],
+    "department": [
+      {
+        "id": "245b5c33-7489-47dd-9470-101eb0e085b0",
+        "created_at": "2023-10-08T03:43:00.878Z",
+        "updated_at": "2023-10-07T23:50:05.083Z"
+      },
+      {
+        "id": "87fd2cd9-188c-42ed-ac2b-ae12f2573d8f",
+        "created_at": "2023-10-08T06:27:52.515Z",
+        "updated_at": "2023-10-08T05:36:35.970Z"
+      },
+      {
+        "id": "76832f73-795c-4698-9c69-df330c6700dd",
+        "created_at": "2023-10-08T11:30:52.454Z",
+        "updated_at": "2023-10-07T16:43:45.088Z"
+      },
+      {
+        "id": "f8f1a8ac-61f9-493f-b412-c638eb9c92f1",
+        "created_at": "2023-10-08T12:26:28.089Z",
+        "updated_at": "2023-10-07T21:05:21.980Z"
+      },
+      {
+        "id": "bb13960e-84be-43c8-9b06-1d243f58098d",
+        "created_at": "2023-10-08T02:48:30.988Z",
+        "updated_at": "2023-10-07T20:39:03.629Z"
+      }
+    ],
+    "attendance_record": [
+      {
+        "id": "49a1031a-21b3-4505-b92d-1465fd15d40f",
+        "created_at": "2023-10-07T17:20:08.062Z",
+        "updated_at": "2023-10-08T01:20:35.090Z"
+      },
+      {
+        "id": "553ee010-7a1f-4bb1-8667-aa0fadac5556",
+        "created_at": "2023-10-08T08:56:20.192Z",
+        "updated_at": "2023-10-08T09:22:51.675Z"
+      },
+      {
+        "id": "4f805688-b6a6-4940-ae21-efc2d99cfa36",
+        "created_at": "2023-10-07T23:36:15.130Z",
+        "updated_at": "2023-10-08T14:46:47.085Z"
+      },
+      {
+        "id": "1cae5f7b-707d-43ec-8837-332ca8675bb1",
+        "created_at": "2023-10-08T07:41:09.041Z",
+        "updated_at": "2023-10-07T23:57:18.179Z"
+      },
+      {
+        "id": "3f2914e1-62c8-4512-84b6-851977298979",
+        "created_at": "2023-10-08T09:37:43.059Z",
+        "updated_at": "2023-10-08T15:22:33.209Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1a428862-b430-47b9-abbb-3e8b33cd8d61",
+        "email": "Courtney.King@roq.tech",
+        "firstName": "Raegan",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/178.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "630b00a5-67a2-4678-bc38-79e2aee5a20e",
+        "email": "Jane_McLaughlin16@roq.tech",
+        "firstName": "Denis",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/943.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e5804756-9eef-47ca-8208-2ae2d67a202f",
+        "email": "Sherman.Heller42@roq.tech",
+        "firstName": "Merlin",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/911.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0948f289-8863-4dd2-9a79-a5e071cc0b5f",
+        "email": "Cayla_Littel8@roq.tech",
+        "firstName": "Halle",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1164.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4c54031-78b1-42ba-a743-b2d27675217f",
+        "email": "Dimitri.OConner@roq.tech",
+        "firstName": "Isaac",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1236.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
